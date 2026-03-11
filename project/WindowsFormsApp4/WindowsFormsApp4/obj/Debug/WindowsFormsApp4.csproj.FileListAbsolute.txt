@@ -1,0 +1,51 @@
+C:\Users\zaina\OneDrive\Desktop\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\zaina\OneDrive\Desktop\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\zaina\OneDrive\Desktop\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\zaina\OneDrive\Desktop\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\zaina\OneDrive\Desktop\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.login.resources
+C:\Users\zaina\OneDrive\Desktop\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.catalog.resources
+C:\Users\zaina\OneDrive\Desktop\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.signin.resources
+C:\Users\zaina\OneDrive\Desktop\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pantsandskirts.resources
+C:\Users\zaina\OneDrive\Desktop\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.topsandsweaters.resources
+C:\Users\zaina\OneDrive\Desktop\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.accessories.resources
+C:\Users\zaina\OneDrive\Desktop\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.jackets.resources
+C:\Users\zaina\OneDrive\Desktop\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.purchase.resources
+C:\Users\zaina\OneDrive\Desktop\project\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\SavedResult.exe.config
+C:\Users\zaina\OneDrive\Desktop\project\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\SavedResult.exe
+C:\Users\zaina\OneDrive\Desktop\project\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\SavedResult.pdb
+C:\Users\zaina\OneDrive\Desktop\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\SavedResult.exe
+C:\Users\zaina\OneDrive\Desktop\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\SavedResult.pdb
+C:\Users\Designer\Desktop\Document from Mariam dwairi~\project\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\SavedResult.exe.config
+C:\Users\Designer\Desktop\Document from Mariam dwairi~\project\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\SavedResult.exe
+C:\Users\Designer\Desktop\Document from Mariam dwairi~\project\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\SavedResult.pdb
+C:\Users\Designer\Desktop\Document from Mariam dwairi~\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\Designer\Desktop\Document from Mariam dwairi~\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.login.resources
+C:\Users\Designer\Desktop\Document from Mariam dwairi~\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.catalog.resources
+C:\Users\Designer\Desktop\Document from Mariam dwairi~\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.accessories.resources
+C:\Users\Designer\Desktop\Document from Mariam dwairi~\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pantsandskirts.resources
+C:\Users\Designer\Desktop\Document from Mariam dwairi~\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Designer\Desktop\Document from Mariam dwairi~\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.jackets.resources
+C:\Users\Designer\Desktop\Document from Mariam dwairi~\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.purchase.resources
+C:\Users\Designer\Desktop\Document from Mariam dwairi~\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.signin.resources
+C:\Users\Designer\Desktop\Document from Mariam dwairi~\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.topsandsweaters.resources
+C:\Users\Designer\Desktop\Document from Mariam dwairi~\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Designer\Desktop\Document from Mariam dwairi~\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Designer\Desktop\Document from Mariam dwairi~\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\SavedResult.exe
+C:\Users\Designer\Desktop\Document from Mariam dwairi~\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\SavedResult.pdb
+C:\Users\Designer\Desktop\project\project\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\SavedResult.exe.config
+C:\Users\Designer\Desktop\project\project\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\SavedResult.exe
+C:\Users\Designer\Desktop\project\project\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\SavedResult.pdb
+C:\Users\Designer\Desktop\project\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.AssemblyReference.cache
+C:\Users\Designer\Desktop\project\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.login.resources
+C:\Users\Designer\Desktop\project\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.catalog.resources
+C:\Users\Designer\Desktop\project\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.accessories.resources
+C:\Users\Designer\Desktop\project\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pantsandskirts.resources
+C:\Users\Designer\Desktop\project\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Designer\Desktop\project\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.jackets.resources
+C:\Users\Designer\Desktop\project\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.purchase.resources
+C:\Users\Designer\Desktop\project\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.signin.resources
+C:\Users\Designer\Desktop\project\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.topsandsweaters.resources
+C:\Users\Designer\Desktop\project\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Designer\Desktop\project\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\Designer\Desktop\project\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\SavedResult.exe
+C:\Users\Designer\Desktop\project\project\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\SavedResult.pdb
